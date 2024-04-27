@@ -197,7 +197,6 @@
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-
 }
 
 .card__title {
@@ -272,7 +271,7 @@
   color: #000;
 }
 
-.about__text{
+.about__text {
   padding-bottom: 24px;
 }
 
